@@ -1,5 +1,9 @@
 [Manifest]
+
 Version = 0.1.0
+
 Build = 1
+
 Link=wwww.something.com
+
 Message=Thanks users for your support, a new version is avaible
