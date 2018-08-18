@@ -4,6 +4,6 @@ Version = 0.1.1
 
 Build = 1
 
-Link=wwww.something.com
+Link=https://github.com/ScottUlmer/CSV-QFX/blob/master/Installer?raw=true
 
 Message=Thanks users for your support, a new version is avaible
