@@ -1,9 +1,9 @@
 [Manifest]
 
-Version = 0.1.0
+Version = 0.1.2
 
-Build = 1
+Build = 3
 
-Link=https://github.com/ScottUlmer/CSV-QFX/releases/download/0.1.0/Installer.exe
+Link=https://github.com/ScottUlmer/CSV-QFX/releases/download/0.1.2/Installer.exe
 
 Message=Thanks users for your support, a new version is avaible
